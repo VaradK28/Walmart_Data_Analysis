@@ -25,7 +25,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 3. Load Data into MySQL
    - **Set Up Connections**: Connect to MySQL using `sqlalchemy` and load the cleaned data into each database.
-   - **Table Creation**: Set up tables in both MySQL using Python SQLAlchemy to automate table creation and data insertion.
+   - **Table Creation**: Set up tables in MySQL using Python SQLAlchemy to automate table creation and data insertion.
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 4. SQL Analysis: Complex Queries and Business Problem Solving
